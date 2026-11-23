@@ -32,6 +32,7 @@
 | # | 期标题 | 时长 | 大小 | 下载直链 |
 |---|---|---|---|---|
 | 11b | Claude 声称解了黎曼猜想，先别急着欢呼（45 秒版 · 2026-11-23 改口径重剪） | 46.9s | 47.3 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-23/11-claude-riemann-45s.mp4 |
+| 17 | 一个小 LoRA 让 Qwen 编程成功率 39% 跃到 65%，token 还省了 4.5 倍 | 45.7s | 32 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-23/17-pi-lora.mp4 |
 
 ## 入库规矩
 
