@@ -4,7 +4,8 @@
 
 - 仓库首页：https://github.com/yiwei198058-ai/assoc-videos
 - 首批发布（16 条）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-22
-- 增补发布：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-23
+- 增补发布（2026-11-23）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-23
+- 增补发布（2026-11-24）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-24
 
 ## 首批清单（library-2026-11-22）
 
@@ -33,6 +34,12 @@
 |---|---|---|---|---|
 | 11b | Claude 声称解了黎曼猜想，先别急着欢呼（45 秒版 · 2026-11-23 改口径重剪） | 46.9s | 47.3 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-23/11-claude-riemann-45s.mp4 |
 | 17 | 一个小 LoRA 让 Qwen 编程成功率 39% 跃到 65%，token 还省了 4.5 倍 | 45.7s | 32 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-23/17-pi-lora.mp4 |
+
+## 增补清单（library-2026-11-24）
+
+| # | 期标题 | 时长 | 大小 | 下载直链 |
+|---|---|---|---|---|
+| 18 | 辞职 11 天，黄仁勋复职当天英伟达暴涨 31% | 49.5s | 24.9 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-24/18-nvidia-return.mp4 |
 
 ## 入库规矩
 
