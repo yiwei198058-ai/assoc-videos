@@ -6,6 +6,7 @@
 - 首批发布（16 条）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-22
 - 增补发布（2026-11-23）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-23
 - 增补发布（2026-11-24）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-24
+- 增补发布（2026-11-25）：https://github.com/yiwei198058-ai/assoc-videos/releases/tag/library-2026-11-25
 
 ## 首批清单（library-2026-11-22）
 
@@ -40,6 +41,12 @@
 | # | 期标题 | 时长 | 大小 | 下载直链 |
 |---|---|---|---|---|
 | 18 | 辞职 11 天，黄仁勋复职当天英伟达暴涨 31% | 49.5s | 24.9 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-24/18-nvidia-return.mp4 |
+
+## 增补清单（library-2026-11-25）
+
+| # | 期标题 | 时长 | 大小 | 下载直链 |
+|---|---|---|---|---|
+| 19 | 删库之后反而更火：FBI 通报的这款工具一周涨了 1.3 万星 | 45.0s | 26.6 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-25/19-artex.mp4 |
 
 ## 入库规矩
 
