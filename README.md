@@ -47,7 +47,8 @@
 | # | 期标题 | 时长 | 大小 | 下载直链 |
 |---|---|---|---|---|
 | 19 | 删库之后反而更火：FBI 通报的这款工具一周涨了 1.3 万星（改版前版） | 45.0s | 26.6 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-25/19-artex.mp4 |
-| 19b | 删库之后反而更火：FBI 通报的这款工具一周涨了 1.3 万星（改版试点版） | 49.3s | 20.6 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-25/19b-artex-rev.mp4 |
+| 19b | 删库之后反而更火：FBI 通报的这款工具一周涨了 1.3 万星（改版试点第一版，已被第二版替代） | 49.3s | 20.6 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-25/19b-artex-rev.mp4 |
+| 19c | 删库之后反而更火：FBI 通报的这款工具一周涨了 1.3 万星（改版试点第二版） | 48.4s | 25.4 MB | https://github.com/yiwei198058-ai/assoc-videos/releases/download/library-2026-11-25/19c-artex-rev2.mp4 |
 
 ## 入库规矩
 
